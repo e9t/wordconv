@@ -1,15 +1,21 @@
 {% extends "layout.html" %}
 
 {% block contents %}
-<table class="table">
-    <thead><td>한국어</td><td>영어</td><td>일어</td></thead>
-    <tbody>
-    {% include '%s.html' % dic %}
-    </tbody>
-</table>
+<table id="dictable" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>한국어</th>
+                <th>영어</th>
+                <th>일본어</th>
+            </tr>
+        </thead>
+    </table>
 <script>
 $(document).ready(function() {
-    $('.table').dataTable();
+    $('#dictable').dataTable({
+        "ajax": "{{ url_for('static', filename='data/%s.json' % dic) }}",
+        "lengthMenu": [[15, 25, 50, -1], [15, 25, 50, "All"]]
+    });
 });
 </script>
 {% endblock %}
