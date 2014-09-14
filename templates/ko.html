@@ -1,23 +1,15 @@
 {% extends "layout.html" %}
 
 {% block contents %}
-<!-- TODO: add spinner -->
-<script type="text/javascript"charset="utf-8">
+<table class="table">
+    <thead><td>한국어</td><td>영어</td><td>일어</td></thead>
+    <tbody>
+    {% include '%s.html' % dic %}
+    </tbody>
+</table>
+<script>
 $(document).ready(function() {
-    d3.text("{{ url_for('static', filename='data/%s.csv' % dic) }}", function(data) {
-    var parsedcsv = d3.csv.parseRows(data);
-    var container = d3.select(".container")
-                      .append("table")
-                      .attr("class", "table")
-                      .selectAll("tr")
-                        .data(parsedcsv).enter()
-                        .append("tr")
-                      .selectAll("td")
-                        .data(function(d) { return d; }).enter()
-                        .append("td")
-                        .text(function(d) { return d; });
-    });
     $('.table').dataTable();
-} );
+});
 </script>
 {% endblock %}
