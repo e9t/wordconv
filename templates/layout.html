@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Wordconv</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Lucy Park">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta property="og:image" content="{{ url_for('static', filename='images/logo.png', _external=True) }}" />
+    <meta property="og:description" content="Word conversions." />
+    <meta property="og:title" content="Wordconv" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://wordconv.com" />
+    <link rel="image_src" type="image/png" href="{{ url_for('static', filename='images/logo.png') }}">
+
+    <!-- Le styles -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="//cdn.datatables.net/1.10.2/css/jquery.dataTables.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/custom.css') }}" rel="stylesheet">
+    <!-- Le javascript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdn.datatables.net/1.10.2/js/jquery.dataTables.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    {% block extra_headers %}
+    {% endblock %}
+  </head>
+
+  <body class="{{ locale }}">
+    <header>
+    {% include "header.html" with context %}
+    </header>
+
+    <div class="container">
+    {% block contents %}
+    {% endblock %}
+    </div>
+
+    <footer>
+    {% include "footer.html" with context %}
+    </footer>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+ </body>
+</html>
