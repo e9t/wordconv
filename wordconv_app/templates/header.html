@@ -1,3 +1,5 @@
+{% set active_page = request.path.split('/')[-1] %}
+
 <nav class="navbar navbar-default" role="navigation">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -15,10 +17,8 @@
             <ul class="nav navbar-nav">
             <!-- TODO: set active links -->
             {% for dic_en, dic_ko in dics.items() %}
-                <li>
-                    <a href="{{ url_for('ko_dic', dic=dic_en.replace(' ', '_')) }}">
-                        {{ dic_ko }}
-                    </a>
+                <li{% if active_page==dic_en %} class="active"{% endif %}>
+                    <a href="{{ url_for('ko_dic', dic=dic_en) }}">{{ dic_ko }}</a>
                 </li>
             {% endfor %}
             </ul>

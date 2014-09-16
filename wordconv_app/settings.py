@@ -14,12 +14,12 @@ SERVER_SETTINGS = {
 DICS = {
     'mechanics': '기계공학',
     'physics': '물리학',
-    'industrial engineering': '산업공학',
+    'industrial_engineering': '산업공학',
     'biology': '생물학',
     'mathematics': '수학',
     'medicine': '의학',
-    'computer science': '컴퓨터공학',
-    'electrical engineering': '전기공학',
+    'computer_science': '컴퓨터공학',
+    'electrical_engineering': '전기공학',
     'chemistry': '화학',
-    'chemical engineering': '화학공학'
+    'chemical_engineering': '화학공학'
 }
