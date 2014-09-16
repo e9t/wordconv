@@ -14,10 +14,10 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
             <!-- TODO: set active links -->
-            {% for dic in dics %}
+            {% for dic_en, dic_ko in dics.items() %}
                 <li>
-                    <a href="{{ url_for('ko_dic', dic=dic.replace(' ', '_')) }}">
-                        {{ dic }}
+                    <a href="{{ url_for('ko_dic', dic=dic_en.replace(' ', '_')) }}">
+                        {{ dic_ko }}
                     </a>
                 </li>
             {% endfor %}
