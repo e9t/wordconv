@@ -228,7 +228,7 @@
     [
       "\uc0b0\uc5fc\uae30\ud3c9\ud615", 
       "acid-base balance", 
-      "\u9178?\u57fa\u5e73\u8861"
+      "\u9178\u5869\u57fa\u5e73\u8861"
     ], 
     [
       "\ud56d\uc0b0\uc131", 
@@ -1178,12 +1178,12 @@
     [
       "\uc5ed\uc5f0\ub3d9", 
       "antiperistalsis", 
-      "\u9006\u305c\u3093[?]\u52d5"
+      "\u9006\u305c\u3093[\u8815]\u52d5"
     ], 
     [
       "\ubc18\uadf9\uc131 \ud6a8\uacfc", 
       "antipolar effect", 
-      "\u9006\u6975\u6027?\u679c"
+      "\u9006\u6975\u6027\u52b9\u679c"
     ], 
     [
       "\ub300\uc774\uc8fc(\u5c0d\u8033\u73e0), \ub300\uc8fc", 
@@ -2223,7 +2223,7 @@
     [
       "\uc0dd\ubb3c\ud559\uc801\ud6a8\uc728", 
       "biological efficiency", 
-      "\u751f\u7269\u5b78\u7684?\u7387"
+      "\u751f\u7269\u5b78\u7684\u52b9\u7387"
     ], 
     [
       "\uc0dd\ubb3c\ud559\uc801 \uc2a4\ud399\ud2b8\ub7fc", 
@@ -2373,7 +2373,7 @@
     [
       "\ud608\uc561\uc544\uac00\ubbf8", 
       "blood gill", 
-      "\u8840\u6db2?"
+      "\u8840\u6db2\u9c13"
     ], 
     [
       "\ud608\uc7a5", 
@@ -2398,7 +2398,7 @@
     [
       "\uccad\uc0c9\uad11 \ud6a8\uacfc", 
       "blue light effect", 
-      "\u9751\u8272\u5149?\u679c"
+      "\u9751\u8272\u5149\u52b9\u679c"
     ], 
     [
       "\ub0a8\uc870\ub958", 
@@ -2548,12 +2548,12 @@
     [
       "\uc544\uac00\ubbf8\ud2c8, \uc0c8\uc5f4", 
       "branchial cleft", 
-      "?\u88c2"
+      "\u9c13\u88c2"
     ], 
     [
       "\uc0c8\ub0ad( \u56ca)", 
       "branchial pouch", 
-      "?\u56ca"
+      "\u9c13\u56ca"
     ], 
     [
       "\ube0c\ub9ac\uc2dc\ub178\ub9ac\ub4dc", 
@@ -2653,7 +2653,7 @@
     [
       "\ub2e4\ubc1c\ucd08", 
       "bundle sheath", 
-      "\u7dad\u7ba1?\u675f"
+      "\u7dad\u7ba1\u9798\u675f"
     ], 
     [
       "\ubd80\ub974\uc2dc\ucf58", 
@@ -3748,7 +3748,7 @@
     [
       "\ubc88\ub370\uae30", 
       "chrysalis", 
-      "\u3055\u306a\u304e(?)"
+      "\u3055\u306a\u304e(\u86f9)"
     ], 
     [
       "\uc554\uc8fd, \uc720\ubbf8(\u4e73 )", 
@@ -5343,7 +5343,7 @@
     [
       "\uc5b5\uc81c\ud6a8\uacfc", 
       "depression effect", 
-      "\u6291\u5236?\u679c"
+      "\u6291\u5236\u52b9\u679c"
     ], 
     [
       "\uc720\ub3c4\uccb4\uc758", 
@@ -5948,7 +5948,7 @@
     [
       "\ub4f1\uc544\uac00\ubbf8", 
       "dorsal gill", 
-      "\u80cc?"
+      "\u80cc\u9c13"
     ], 
     [
       "\ubc30\uac01(\u80cc\u89d2)", 
@@ -6193,7 +6193,7 @@
     [
       "\uc0dd\ud0dc\uc801\uc5ed\uce58", 
       "ecological threshold", 
-      "\u751f\u614b\u7684?\u5024"
+      "\u751f\u614b\u7684\u95be\u5024"
     ], 
     [
       "\uc0dd\ud0dc\uae30\uc0dd\uc0dd\ubb3c", 
@@ -6258,7 +6258,7 @@
     [
       "\uc8fc\ubcc0\ud6a8\uacfc", 
       "edge effect", 
-      "\u5468??\u679c"
+      "\u5468\u8fba\u52b9\u679c"
     ], 
     [
       "\uc720\ud6a8\uc801\uc0b0\uc628\ub3c4", 
@@ -6273,7 +6273,7 @@
     [
       "\uc720\ud6a8\ucd9c\ud310", 
       "effective publication", 
-      "\u6709?\u51fa\u7248"
+      "\u6709\u52b9\u51fa\u7248"
     ], 
     [
       "\ub09c\uc2e4", 
@@ -6483,7 +6483,7 @@
     [
       "\uc5d0\uba38\uc2a8\ud6a8\uacfc", 
       "Emerson effect", 
-      "\u30a8\u30de\uff0d\u30bd\u30f3?\u679c"
+      "\u30a8\u30de\uff0d\u30bd\u30f3\u52b9\u679c"
     ], 
     [
       "\uc774\ucd9c", 
@@ -7313,7 +7313,7 @@
     [
       "\uc0ac\ucca0\uac1c\ud654", 
       "ever-flowering", 
-      "\u56db\u5b63??\u304d"
+      "\u56db\u5b63\u54b2\u30fc\u304d"
     ], 
     [
       "\uc0c1\ub85d", 
@@ -7528,7 +7528,7 @@
     [
       "\uc678\uc0c8, \uc678\ubd80\uc544\uac00\ubbf8", 
       "external gill", 
-      "\u5916?"
+      "\u5916\u9c13"
     ], 
     [
       "\uc678\uc0dd\uccb4\uad00\ubd80", 
@@ -8813,7 +8813,7 @@
     [
       "\uc0c8\ubc29( \u623f), \uc544\uac00\ubbf8\ubc29", 
       "gill chamber", 
-      "\u2474 ?\u8154 \u2475 ?\u5ba4"
+      "\u2474 \u9c13\u8154 \u2475 \u9c13\u5ba4"
     ], 
     [
       "\ud658\uc0c1\ubc15\ud53c", 
@@ -9473,7 +9473,7 @@
     [
       "\ud3b8\uc0c8(\u7247 ), \ubc18\ucabd\uc544\uac00\ubbf8", 
       "hemibranch", 
-      "\u7247?"
+      "\u7247\u9c13"
     ], 
     [
       "\ud5e4\ubbf8\uc140\ub8f0\ub85c\uc624\uc2a4", 
@@ -9873,7 +9873,7 @@
     [
       "\uc804\uc0c8(\u5168 ), \uc644\uc804\uc544\uac00\ubbf8", 
       "holobranch", 
-      "\u5168- ?"
+      "\u5168- \u9bdb"
     ], 
     [
       "\uc804\uc2e4\uc131(\u5168\u5be6\u6027), \uc804\uacfc\uc131", 
@@ -10598,7 +10598,7 @@
     [
       "\ube44\ud65c\uc131\ud654", 
       "inactivation", 
-      "(1)\uf967\u6d3b\u6027\u5316 (2)\u5931 \u6d3b (3)\u975e?\u5316"
+      "(1)\uf967\u6d3b\u6027\u5316 (2)\u5931 \u6d3b (3)\u975e\u50cd\u5316"
     ], 
     [
       "\ud55c\uacc4\uc6d0\ud615\uc9c8\ubd84\ub9ac", 
@@ -10843,7 +10843,7 @@
     [
       "\uc18c\ub0b4\uacf5\uc0dd", 
       "inquiline", 
-      "\u4f4f?\u307f\u52d5\u7269"
+      "\u4f4f\u8fbc\u307f\u52d5\u7269"
     ], 
     [
       "\ucda9\uc601", 
@@ -10988,7 +10988,7 @@
     [
       "\ub0b4\uc0c8(\u5167 )", 
       "internal gill", 
-      "\u5167?"
+      "\u5167\u9c13"
     ], 
     [
       "\ub0b4\ubd80\uae30\uc0dd", 
@@ -11113,7 +11113,7 @@
     [
       "\uce68\uc785\uc0dd\uc7a5, \uad00\uc785\uc0dd\uc7a5", 
       "intrusive growth", 
-      "\u5272?\u307f\u6210\u9577"
+      "\u5272\u8fbc\u307f\u6210\u9577"
     ], 
     [
       "\uc774\ub20c\ub9b0", 
@@ -11858,7 +11858,7 @@
     [
       "\uc5fd\ucd08", 
       "leaf sheath", 
-      "\u8449?"
+      "\u8449\u9798"
     ], 
     [
       "\uc78e \ub369\uad74\uc190", 
@@ -12253,7 +12253,7 @@
     [
       "\uc5f4\ud3b8(\uf9a0\u7247)", 
       "lobation", 
-      "\u5207\u308c?\u307f"
+      "\u5207\u308c\u8fbc\u307f"
     ], 
     [
       "\ucc9c\uc5f4(\u6dfa\uf9a0)\uc758", 
@@ -12698,7 +12698,7 @@
     [
       "\uc8fc\ubcc0\ubd84\uc9c0", 
       "marginal branching", 
-      "\u5468?\u5206\u679d"
+      "\u5468\u8fba\u5206\u679d"
     ], 
     [
       "\ubcc0\uc5f0\uc138\ud3ec", 
@@ -12708,12 +12708,12 @@
     [
       "\uc8fc\ubcc0\uad70\ub77d", 
       "marginal community", 
-      "\u5468?\u7fa4\u843d"
+      "\u5468\u8fba\u7fa4\u843d"
     ], 
     [
       "\uc8fc\ubcc0\ud654", 
       "marginal flower", 
-      "\u5468?\u5316"
+      "\u5468\u8fba\u5316"
     ], 
     [
       "\uc8fc\ubcc0\uc0dd\uc7a5", 
@@ -12723,7 +12723,7 @@
     [
       "\ubcc0\uc5f0\ud0dc\uc88c", 
       "marginal placentation", 
-      "\u7de3?\u80ce\u5ea7"
+      "\u7de3\u8fba\u80ce\u5ea7"
     ], 
     [
       "\ud574\uc870\ub958", 
@@ -12873,7 +12873,7 @@
     [
       "\uc6a9\ubcc0(\u8e0a\uf965), \ud0dc\ubcc0(\u80ce\uf965)", 
       "meconium", 
-      "?\uf965"
+      "\u86f9\uf965"
     ], 
     [
       "\uc911\ub9e5, \ubc30\uc9c0", 
@@ -14498,7 +14498,7 @@
     [
       "\uc2e0\uacbd\ucd08", 
       "neurilemma", 
-      "\u795e\u7d93\u3057\u3087\u3046\u3010?\u3011"
+      "\u795e\u7d93\u3057\u3087\u3046\u3010\u9798\u3011"
     ], 
     [
       "\ucd95\uc0ad, \uc2e0\uacbd\ub3cc\uae30", 
@@ -15788,7 +15788,7 @@
     [
       "\uc30d\uc9c0\ub290\ub7ec\ubbf8", 
       "paired fin", 
-      "[\u6709]\u5c0d\u3072\u308c\u3010?\u3011"
+      "[\u6709]\u5c0d\u3072\u308c\u3010\u9c2d\u3011"
     ], 
     [
       "\uad6c\uac1c, \uc785\ucc9c\uc815", 
@@ -16278,7 +16278,7 @@
     [
       "\ud30c\uc2a4\ud1f4\ub974\ud6a8\uacfc", 
       "Pasteur effect", 
-      "\u30d1\u30b9\u30c4\uff0d\u30eb?\u679c"
+      "\u30d1\u30b9\u30c4\uff0d\u30eb\u52b9\u679c"
     ], 
     [
       "\uc2ac\uac1c\uace8(\u819d\u84cb\u9aa8)", 
@@ -16533,7 +16533,7 @@
     [
       "\uc704\uc0c8\uac15(\u570d \u8154)", 
       "peribranchial cavity", 
-      "\u570d?\u8154"
+      "\u570d\u9c13\u8154"
     ], 
     [
       "\uc8fc\ubcc0\ud615\uc131\uce35", 
@@ -16993,7 +16993,7 @@
     [
       "\uc5fd\uc0c1\uc544\uac00\ubbf8(\u8449\u72c0\u223c)", 
       "phyllobranchia", 
-      "\u8449\u72c0? (\u8449?)"
+      "\u8449\u72c0\u9c13 (\u8449\u9c13)"
     ], 
     [
       "\uc5fd\uc0c1\uacbd, \uc78e\ubaa8\uc591\uc904\uae30", 
@@ -17048,7 +17048,7 @@
     [
       "\ubb3c\ub9ac\uc801\uc544\uac00\ubbf8", 
       "physical gill", 
-      "\u7269\u7406?"
+      "\u7269\u7406\u9c13"
     ], 
     [
       "\uc0c1\uad00, \uc2dd\ubb3c\uad70\ub77d\uc0c1", 
@@ -21793,7 +21793,7 @@
     [
       "\ub179\ub9d0\ucd08", 
       "starch sheath", 
-      "\u30c7\u30f3\u30d7\u30f3?"
+      "\u30c7\u30f3\u30d7\u30f3\u9798"
     ], 
     [
       "\ud3c9\ud615\uae30(\uad00)", 
@@ -23588,7 +23588,7 @@
     [
       "\uae30\uad00\uc544\uac00\ubbf8", 
       "tracheal gill", 
-      "\u6c23\u7ba1?"
+      "\u6c23\u7ba1\u9c13"
     ], 
     [
       "\uae30\uad00\uac04", 
@@ -24273,7 +24273,7 @@
     [
       "\uc885\uc2b5(\u7e31\u8936), \uc7a5\ub0b4\uc885\uc735\uae30", 
       "typhlosole", 
-      "(1) \u8178\u5167\u7e31\u9686\u8d77? (2)? \u76f2\u3072"
+      "(1) \u8178\u5167\u7e31\u9686\u8d77\u00a0 (2)\u00a0 \u76f2\u3072"
     ], 
     [
       "\uc815\ud615 \ud56d\uccb4", 
@@ -24628,7 +24628,7 @@
     [
       "\ud569\ubc95\uc801", 
       "valid", 
-      "(1) \u6709?--\u5f62   (2) \u59a5\u7576--\u5f62"
+      "(1) \u6709\u52b9--\u5f62   (2) \u59a5\u7576--\u5f62"
     ], 
     [
       "\ud0c0\ub2f9\ucd9c\ud310", 
@@ -24703,7 +24703,7 @@
     [
       "\uad00\ub2e4\ubc1c\ucd08", 
       "vascular bundle sheath", 
-      "\u7dad\u7ba1\u675f?"
+      "\u7dad\u7ba1\u675f\u9798"
     ], 
     [
       "\uad00\ub2e4\ubc1c\uacc4", 
@@ -25273,7 +25273,7 @@
     [
       "\ubc14\ub974\ubd80\ub974\uadf8 \ud6a8\uacfc", 
       "Warburg effect", 
-      "\u30ef\uff0d\u30eb\u30d6\u30eb\u30af?\u679c"
+      "\u30ef\uff0d\u30eb\u30d6\u30eb\u30af\u52b9\u679c"
     ], 
     [
       "\ubc14\ub974\ubd80\ub974\uadf8-\ub515\ucf04\uc2a4\uacbd\ub85c", 
@@ -25398,7 +25398,7 @@
     [
       "\uc704\uae00\uc7ac\ud65c\uc131\ud654", 
       "Weigle reactivation", 
-      "\u30ef\u30a3\u30b0\u30eb?\u679c"
+      "\u30ef\u30a3\u30b0\u30eb\u52b9\u679c"
     ], 
     [
       "\ubc14\ub974\ud1a4 \uc824\ub9ac", 
