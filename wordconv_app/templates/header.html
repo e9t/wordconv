@@ -8,16 +8,16 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">WordConv</a>
+            <a class="navbar-brand" href="#"><b>WordConv: 전문용어 변환 사전</b></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
             <!-- TODO: set active links -->
-            {% for dic in dics %}
+            {% for dic_en, dic_ko in dics.items() %}
                 <li>
-                    <a href="{{ url_for('ko_dic', dic=dic.replace(' ', '_')) }}">
-                        {{ dic }}
+                    <a href="{{ url_for('ko_dic', dic=dic_en.replace(' ', '_')) }}">
+                        {{ dic_ko }}
                     </a>
                 </li>
             {% endfor %}

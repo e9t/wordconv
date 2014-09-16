@@ -1,1 +1,6 @@
 *.pyc
+*.csv
+flask/
+jinja2/
+venv/
+werkzeug/
