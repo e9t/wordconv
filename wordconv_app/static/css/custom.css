@@ -8,3 +8,6 @@ footer {
 footer p:last-child {
   margin-bottom: 0;
 }
+#dictable{
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", Osaka, Meiryo, "メイリオ", "MS PGothic", "ＭＳ Ｐゴシック", sans-serif;
+}
